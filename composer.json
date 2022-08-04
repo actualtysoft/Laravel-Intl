@@ -13,12 +13,16 @@
         {
             "name": "Propaganistas",
             "email": "Propaganistas@users.noreply.github.com"
+        },
+        {
+            "name": "Actual Tysoft",
+            "email": "actualtysoft@users.noreply.github.com"
         }
     ],
     "require": {
         "php": ">=7.1.3",
-        "illuminate/events": "^5.8|^6.0|^7.0|^8.0",
-        "illuminate/support": "^5.8|^6.0|^7.0|^8.0",
+        "illuminate/events": "^5.8|^6.0|^7.0|^8.0|^9.0",
+        "illuminate/support": "^5.8|^6.0|^7.0|^8.0|^9.0",
         "nesbot/carbon": "^2.0",
         "commerceguys/intl": "^1.0.1",
         "umpirsky/country-list": "^2.0",
