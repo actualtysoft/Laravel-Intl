@@ -21,8 +21,8 @@
     ],
     "require": {
         "php": ">=7.1.3|^8.0",
-        "illuminate/events": "^5.8|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
-        "illuminate/support": "^5.8|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
+        "illuminate/events": "^11.0|^12.0",
+        "illuminate/support": "^11.0|^12.0",
         "nesbot/carbon": "^3.0",
         "commerceguys/intl": "^2.0",
         "umpirsky/country-list": "^2.0",
